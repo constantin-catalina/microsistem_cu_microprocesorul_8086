@@ -24,8 +24,8 @@ cu componente hardware specifice și rutine software scrise în limbaj de asambl
 Toate subrutinele sunt implementate în **ASM (Intel syntax)**:
 - Configurare 8251  
 - Configurare 8255  
-- Emisie/recepție prin serial (8251)  
-- Emisie caracter prin paralel (8255)  
+- Emisie/recepție prin interfață serială (8251)  
+- Emisie caracter prin interfață paralelă (8255)  
 - Scanare minitastatură  
 - Control LED-uri  
 - Afișare hexadecimal pe 7 segmente
